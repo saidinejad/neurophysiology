@@ -1,0 +1,605 @@
+{
+    "__type__": "Deck",
+    "children": [],
+    "crowdanki_uuid": "6671de52-f096-11ef-aa6d-d4548b111f10",
+    "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+    "deck_configurations": [
+        {
+            "__type__": "DeckConfig",
+            "answerAction": 0,
+            "autoplay": true,
+            "buryInterdayLearning": false,
+            "crowdanki_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
+            "desiredRetention": 0.9,
+            "dyn": false,
+            "easyDaysPercentages": [
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0,
+                1.0
+            ],
+            "fsrsParams5": [],
+            "fsrsWeights": [],
+            "ignoreRevlogsBeforeDate": "",
+            "interdayLearningMix": 0,
+            "lapse": {
+                "delays": [
+                    10.0
+                ],
+                "leechAction": 1,
+                "leechFails": 8,
+                "minInt": 1,
+                "mult": 0.0
+            },
+            "maxTaken": 60,
+            "name": "Default",
+            "new": {
+                "bury": false,
+                "delays": [
+                    1.0,
+                    10.0
+                ],
+                "initialFactor": 2500,
+                "ints": [
+                    1,
+                    4,
+                    0
+                ],
+                "order": 1,
+                "perDay": 20
+            },
+            "newGatherPriority": 0,
+            "newMix": 0,
+            "newPerDayMinimum": 0,
+            "newSortOrder": 0,
+            "questionAction": 0,
+            "replayq": true,
+            "rev": {
+                "bury": false,
+                "ease4": 1.3,
+                "hardFactor": 1.2,
+                "ivlFct": 1.0,
+                "maxIvl": 36500,
+                "perDay": 200
+            },
+            "reviewOrder": 0,
+            "secondsToShowAnswer": 0.0,
+            "secondsToShowQuestion": 0.0,
+            "sm2Retention": 0.9,
+            "stopTimerOnAnswer": false,
+            "timer": 0,
+            "waitForAudio": true,
+            "weightSearch": ""
+        }
+    ],
+    "desc": "",
+    "dyn": 0,
+    "extendNew": 0,
+    "extendRev": 0,
+    "media_files": [
+        "paste-02da18fdc6ae0cc3d79e36a365a13b8e74315f84.jpg",
+        "paste-5f12e230a48a8e1379dd50eb741e4ba02d13c4c2.jpg",
+        "paste-72cf2a6e8c71407ec87c8c7691a03acf999abb10.jpg",
+        "paste-e8493bb102a0911dad40ee69ffd9df878aa9393c.jpg"
+    ],
+    "name": "neurophysiology",
+    "newLimit": null,
+    "newLimitToday": null,
+    "note_models": [
+        {
+            "__type__": "NoteModel",
+            "crowdanki_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "css": ".card {\n    font-family: arial;\n    font-size: 20px;\n    text-align: center;\n    color: black;\n    background-color: white;\n}\n",
+            "flds": [
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 991874920854447928,
+                    "name": "Front",
+                    "ord": 0,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                },
+                {
+                    "collapsed": false,
+                    "description": "",
+                    "excludeFromSearch": false,
+                    "font": "Arial",
+                    "id": 1529952001305201627,
+                    "name": "Back",
+                    "ord": 1,
+                    "plainText": false,
+                    "preventDeletion": false,
+                    "rtl": false,
+                    "size": 20,
+                    "sticky": false,
+                    "tag": null
+                }
+            ],
+            "latexPost": "\\end{document}",
+            "latexPre": "\\documentclass[12pt]{article}\n\\special{papersize=3in,5in}\n\\usepackage[utf8]{inputenc}\n\\usepackage{amssymb,amsmath}\n\\pagestyle{empty}\n\\setlength{\\parindent}{0in}\n\\begin{document}\n",
+            "latexsvg": false,
+            "name": "Basic",
+            "originalStockKind": 1,
+            "req": [
+                [
+                    0,
+                    "any",
+                    [
+                        0
+                    ]
+                ]
+            ],
+            "sortf": 0,
+            "tags": "N4.L@20d5bf3",
+            "tmpls": [
+                {
+                    "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
+                    "bafmt": "",
+                    "bfont": "",
+                    "bqfmt": "",
+                    "bsize": 0,
+                    "did": null,
+                    "id": -8159597958868431343,
+                    "name": "Card 1",
+                    "ord": 0,
+                    "qfmt": "{{Front}}"
+                }
+            ],
+            "type": 0
+        }
+    ],
+    "notes": [
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is visceral neural system?",
+                "احشایی = خودمختار<br>&nbsp;"
+            ],
+            "guid": "KevHs9s9?;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "difference between automatic and autonomic?",
+                "autonomic = خودمختار<br>automatic = خودکار<br>خود مختار تحت اراده ما نیست ولی توسط ما قابل تنظیمه ولی خودکار تحت اراده ی ماست و خود به خود عملکردی نداره"
+            ],
+            "guid": "L5LYByyo)|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پیام هایی که از حواس ویژه به مغز میرسند توسط اعصاب سیستم خودمختار/پیکری منتقل می شوند.",
+                "پیکری&nbsp;"
+            ],
+            "guid": "qG1{f2Hw1V",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت سیستم عصبی پیکری و احشایی",
+                "احشایی ارتباط با داخل بدنه<br>پیکری ارتباط با خارج"
+            ],
+            "guid": "A@ZN07v=4Z",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام اعصاب حسی جزو سیستم عصبی پیکری هستند.",
+                "غلطه هر دو سیستم پیکری و احشایی دارای اعصاب حسی و حرکتی هستند"
+            ],
+            "guid": "xoF2rv;oQy",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سیستم عصبی مرکزی شامل اعصاب سماتیک و احشایی است.",
+                "غلطه شامل مغز و نخاع است و اعصاب پیکری و خودمختار جزو سیستم عصبی محیطی ان."
+            ],
+            "guid": "_h,Z]ZNPo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام یک از سه قسمت اصلی مغز در بین مهره داران ثابت است؟",
+                "midbrain (mesencephalon)"
+            ],
+            "guid": "F8YsLCH*Uh",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شیار مرکزی مغز:<br>نام دیگر؟<br>راستا؟<br>لوب ها؟",
+                "رولاندو<br>عمودی<br>پیشانی و آهیانه ای<br><img src=\"paste-5f12e230a48a8e1379dd50eb741e4ba02d13c4c2.jpg\">"
+            ],
+            "guid": "w80&.u_=:n",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "شیار جانبی مغز:<br>راستا؟<br>لوب ها؟",
+                "افقی<br>پیشانی و آهیانه ای<br><img src=\"paste-5f12e230a48a8e1379dd50eb741e4ba02d13c4c2.jpg\">"
+            ],
+            "guid": "QUp%UA~[5A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دندریت کلفت تر است یا آکسون؟",
+                "آکسون"
+            ],
+            "guid": "pWci#y$4IH",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اوردر نورون های CNS",
+                "100 میلیارد"
+            ],
+            "guid": "nOpK527VYk",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6 نوع نورون از نظر ظاهری:",
+                "تک قطبی<br>دو قطبی<br>تک قطبی کاذب<br>چند قطبی هرمی<br>چند قطبی پورکینژ<br>چند قطبی عادی<br><img src=\"paste-72cf2a6e8c71407ec87c8c7691a03acf999abb10.jpg\">"
+            ],
+            "guid": "kq<b1sj2e]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "علت اهمیت تپه آکسونی چیست؟",
+                "axon hillock<br>تمرکزی زیادی از کانال های سدیمی حساس به ولتاژ =&gt; شکل گرفتن پتانسیل عمل در آکسون به تحریک شدن این نقطه وابسته است =&gt; محل تصمیم گیری برای ایجاد پتانسیل عمل"
+            ],
+            "guid": "q3q(3MaFEQ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کارکرد میلین در نورن ها؟",
+                "کاهش ظرفیت خازنی غشا"
+            ],
+            "guid": "yZvMlCf-p9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کارکرد فاکتورهای نوروتروفیک چیست؟",
+                "نورون به سمت این ماده کموتاکسی مثبت میزنه و شاخه میسازه در ترمیم نقش داره"
+            ],
+            "guid": "sp}ewBZIDe",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گلیا های سیستم عصبی محیطی؟",
+                "ماهواره ای<br>شوان"
+            ],
+            "guid": "ktuu5Jnvq,",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کارکرد سلول های ماهواره ای؟",
+                "مثل پرستار<br>حمایت از جسم سلولی"
+            ],
+            "guid": "p@c1(~+eB:",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کارکرد سلول های شوان؟",
+                "تولید میلین<br>ترشح فاکتورهای نوروتروفیک"
+            ],
+            "guid": "lb,#[WL#8R",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "آیا فاکتورهای نوروتروفیک در سیستم عصبی مرکزی وجود دارند؟",
+                "بله خیلی کم مخصوصا در هیپوکامپ (محل ایجاد حافظه و یادگیری)"
+            ],
+            "guid": "BWD.PvHNZZ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ترمیم پذیری سیستم عصبی مرکزی بیشتر است یا محیطی؟",
+                "محیطی چون فاکتور نوروتروفیکش بیشتره"
+            ],
+            "guid": "pE/$~FEF!C",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گلیا های سیستم عصبی مرکزی؟",
+                "الیگودندروسیت<br>استروسیت (ستاره ای)<br>میکروگلیا<br>اپاندیمال"
+            ],
+            "guid": "x4atV[AC?n",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فعالیت الیگودندروسیت ها و میکروگلیا ها",
+                "ساخت میلین<br>فاگوسیت پاتوژن ها (scavenger)"
+            ],
+            "guid": "CX3~tJh!ag",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فعالیت استروسیت ها",
+                "مهم ترین گلیا در CNS<br>حمایت<br>ایجاد سد خونی مغزی<br>تولید فاکتور نوروتروفیک<br>برداشتن مواد موجود در فضا (نوروترنسمیترا مثلا)"
+            ],
+            "guid": "nQc+36h]d[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فعالیت و ویژگی سلول اپاندیمال",
+                "دارای تاژک<br>جا به جا کردن و جریان CSF"
+            ],
+            "guid": "Ecm{`v0,!]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اعصاب حسی بیشترن یا حرکتی؟",
+                "حسی"
+            ],
+            "guid": "P~c8(trna.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "efferent / afferent",
+                "وابران / آوران"
+            ],
+            "guid": "i}W^&Hl$oW",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سطوح مختلف عملکرد سیستم عصبی مرکزی:",
+                "سطح نخاعی (اجرایی)<br>سطح مغز پایینی subcortical / lower brain (فعالیت ناخودآگاه) (شامل = بصل النخاع + مفزمیانی + پل مغزی + مخچه + تالاموس + هیپوتالاموس عقده های قاعده ای)<br>سطح سوم مغزبالا دستی cortical / higher brain&nbsp;"
+            ],
+            "guid": "HQ-F$f<~Ns",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مثالی از عملکرد هر یک از سطح سیستم عصبی مرکزی بزنید",
+                "اول: ایستادن بر خلاف جاذبه<br>دوم: همدردی (خمیازه یا خواب و گرسنگی)<br>سوم: حافظه و تفکر"
+            ],
+            "guid": "cUZ2i[,ni.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "decision making area of neuron:",
+                "axon hillock"
+            ],
+            "guid": "NVXB2p}yZ",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چند درصد پیام ها توسط جسم سلولی دریافت می شود؟",
+                "5 تا 20"
+            ],
+            "guid": "qt~KzHV}j$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "جایگاه سیناپس نسبت به آکسون روی قدرت تحریک موثر است.",
+                "صحیح (نزدیک تر قوی تر)"
+            ],
+            "guid": "l%*A}_oSXp",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در کدام رشته عصبی هدایت کاهشی داریم؟",
+                "دندریت برخلاف اکسون"
+            ],
+            "guid": "Rg,`1qhae(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "قوی ترین نوع سیناپس؟",
+                "axo-axonal"
+            ],
+            "guid": "heT9Zig+t",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "سیناپس های axo-axonal:<br>معمولا در کدام قسمت اکسون؟<br>نوع تحریک؟",
+                "&nbsp;axon hillock تپه اکسونی<br>مهاری"
+            ],
+            "guid": "p5;/QO:;Os",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "6&nbsp;ویژگی سیناپس الکتریکی",
+                "انتقال پیام دو طرفه<br>فاقد فضای سیناپسی (خیلی کوچیک)<br>فاقد نوروترنسمیتر (انتقال یون ها به طور مستقیم)<br>دارای gap junction<br>انتقال فیزیکی<br>فاقد پتانسیل عمل دارای پتانسیل میرا یا لوکال"
+            ],
+            "guid": "DP>jPg7=hO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام یون در سیناپس شیمیایی موجب آزادسازی وزیکول های حاوی نوروترنسمیتر می شود؟",
+                "کلسیم"
+            ],
+            "guid": "DTZMr{6TXr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در تمام موجودات سیناپس الکتریکی و شیمیایی وجود دارد.",
+                "صحیح (نسبت شیمیایی بیشتر باشه موجود عالی تره)"
+            ],
+            "guid": "b6U{V&$>vF",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد کلسیم در انتقال پیام عصبی",
+                "1. اثر بر روی پروتیین های پهلوگیری<br>2. اثر بر جاذبه ی وزیکول ها نسبت به docking proteins"
+            ],
+            "guid": "wlKCe^Y+g#",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what does ionophore component of receptors do?",
+                "قسمت اجراییه یا 1. کانال یونیه که باز میشه 2. یا یک فعال کننده پیامبر ثانویه است"
+            ],
+            "guid": "xHz>Tla?/x",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو نوع گیرنده ی نورن پس سیناپسی",
+                "1. کانال یونی<br>2. گیرنده فعال کننده پیامبر ثانویه (مهم ترینش = G-ProteinCoupledReceptor)<br>3. هر دو عملکرد همزمان<br><img src=\"paste-e8493bb102a0911dad40ee69ffd9df878aa9393c.jpg\">"
+            ],
+            "guid": "qzof7cPQ7=",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد GPCRها رو توی بیوشیمی هورمون و فیزیو غدد بلدیم ولی خب:",
+                "<img src=\"paste-02da18fdc6ae0cc3d79e36a365a13b8e74315f84.jpg\"><br>معمولا قسمت آلفا قسمت تبدیل کننده GTP به GDP و متصل شونده به آنزیم ثانویه س"
+            ],
+            "guid": "w<nSf/Z.Yo",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 حالت برای رخ دادن تحریک",
+                "باز شدن کانال سدیمی<br>کاهش میزان هدایت پتاسیم(جلوگیری از خروج) یا کلر(ورود بیشتر) یا هر دو<br>تغییرات متابولیسمی (مثلا افزایش گیرنده ها)<br>"
+            ],
+            "guid": "mb%doa%XA9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "3 حالت رخ دادن مهار",
+                "افزایش کانال های کلر و باز شدنشون<br>افزایش کانال های پتاسیم و باز شدنشون<br>تغییر در گیرنده های مهاری و تحریکی"
+            ],
+            "guid": "eA!%G<m=%<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "انواع نوروترنسمیترها",
+                "مولکول های کوچک<br>پپتید ها neuropeptide"
+            ],
+            "guid": "A{eh7-;<{@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        }
+    ],
+    "reviewLimit": null,
+    "reviewLimitToday": null
+}
