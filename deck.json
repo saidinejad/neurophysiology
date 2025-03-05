@@ -1,7 +1,7 @@
 {
     "__type__": "Deck",
     "children": [],
-    "crowdanki_uuid": "6671de52-f096-11ef-aa6d-d4548b111f10",
+    "crowdanki_uuid": "a3c29efd-f9cb-11ef-9768-d4548b111f0d",
     "deck_config_uuid": "4e381e62-ef6c-11ef-83f6-d4548b111f10",
     "deck_configurations": [
         {
@@ -81,9 +81,16 @@
     "extendRev": 0,
     "media_files": [
         "paste-02da18fdc6ae0cc3d79e36a365a13b8e74315f84.jpg",
+        "paste-0cd4ed85012552314ba08dd5c5448d2afbff918e.jpg",
+        "paste-295a955afbc1cc1bde074c93b463d03beb4c8fec.jpg",
         "paste-5f12e230a48a8e1379dd50eb741e4ba02d13c4c2.jpg",
+        "paste-70442bae560c2e93fb49d39bdc721cc4ca9f58d0.jpg",
         "paste-72cf2a6e8c71407ec87c8c7691a03acf999abb10.jpg",
-        "paste-e8493bb102a0911dad40ee69ffd9df878aa9393c.jpg"
+        "paste-8c5d03f41623a76ef24ffc03dde37fc3446fdd8b.jpg",
+        "paste-90adb37add5e3f1ad737a248248d3b91847df87f.jpg",
+        "paste-df610ee8be16aa3328a8b143aa3ea6aefa8be680.jpg",
+        "paste-e8493bb102a0911dad40ee69ffd9df878aa9393c.jpg",
+        "temp_file_-0256cf5f657b68a05d701dc6b45ef6bc4e8d8042.jpg"
     ],
     "name": "neurophysiology",
     "newLimit": null,
@@ -140,7 +147,7 @@
                 ]
             ],
             "sortf": 0,
-            "tags": "N4.L@20d5bf3",
+            "tags": "N4.L@8a40cf6",
             "tmpls": [
                 {
                     "afmt": "{{FrontSide}}\n\n<hr id=answer>\n\n{{Back}}",
@@ -212,7 +219,7 @@
         {
             "__type__": "Note",
             "fields": [
-                "سیستم عصبی مرکزی شامل اعصاب سماتیک و احشایی است.",
+                "سیستم عصبی مرکزی شامل اعصاب سوماتیک و احشایی است.",
                 "غلطه شامل مغز و نخاع است و اعصاب پیکری و خودمختار جزو سیستم عصبی محیطی ان."
             ],
             "guid": "_h,Z]ZNPo",
@@ -243,7 +250,7 @@
             "__type__": "Note",
             "fields": [
                 "شیار جانبی مغز:<br>راستا؟<br>لوب ها؟",
-                "افقی<br>پیشانی و آهیانه ای<br><img src=\"paste-5f12e230a48a8e1379dd50eb741e4ba02d13c4c2.jpg\">"
+                "افقی<br>پیشانی و آهیانه ای از گیجگاهی<br><img src=\"paste-5f12e230a48a8e1379dd50eb741e4ba02d13c4c2.jpg\">"
             ],
             "guid": "QUp%UA~[5A",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
@@ -596,6 +603,476 @@
                 "مولکول های کوچک<br>پپتید ها neuropeptide"
             ],
             "guid": "A{eh7-;<{@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کلاس های نوروترنسمیترهای مولکول کوچک به همراه اعضا",
+                "۱. استیل کولینی<br>۲. آمین ها: اپی نفرین، نور اپی نفرین، دوپامین، سروتونین، هیستامین <br>۳. اسید آمینه ها: gaba، گلایسین، گلوتامات، اسپارتات<br>۴. گازی: NO, CO, H2S, ATP, اراشیدونیک اسید"
+            ],
+            "guid": "MK[P0Dq$R7",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد <br>Gaba<br>گلایسین<br>اسپارتات<br>گلوتامات",
+                "مهاری (مغز)<br>مهاری (نخاع)<br>تحریکی<br>تحریکی"
+            ],
+            "guid": "IyF*$,#0D|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "گیرنده‌ی نوروپپتیدها اغلب چیست؟",
+                "GPCR<br>(کانال یونی کمتره)"
+            ],
+            "guid": "xEb[b*!qUO",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت نوروترنسمیترهای مولکول کوچک و پپتیدی در ختم اثر",
+                "مولکول کوچک: اغلب re-up take با هم انتقالی، گاهی آنزیمی<br>پپتیدی: آنزیمی (پروتئاز)"
+            ],
+            "guid": "G/OA-@JK$Y",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت مدت زمان اثر در نوروترانسمیتر مولکول کوچک و پپتیدی ",
+                "در مولکول کوچک بسیار کم برعکس پپتید طولانی "
+            ],
+            "guid": "t=RFraWh,@",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "یون اصلی پیام عصبی",
+                "پتاسیم <br>سدیم<br>کلر"
+            ],
+            "guid": "Cnq^6@_&j]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What are EPSP and IPSP",
+                "Excitatory postsynaptic potential <br>Inhibitory postsynaptic potential <br>هدایت های موضعی<br>Local potential <br>لزوما به آستانه نمیرسن<br>توسط یه نورون ایجاد شدن<br>نقش تسهیل‌کنندگی"
+            ],
+            "guid": "fWh-F{(17A",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چرا در جسم سلولی یا دندریت پتانسیل عمل نمیبینیم؟",
+                "چون کانال های سدیمی حساس به ولتاژ پراکنده‌ن و متمرکز نیستن"
+            ],
+            "guid": "fdErDij`4)",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تسهیل شدگی را در نورون توضیح دهید",
+                "وقتی نورون با تحریک اندکی دپلاریزه میشود ولی به پتانسیل عمل نمیرسید ولی برای رسیدن به پتانسیل عمل اماده میشود یعنی با تحریکات بعدی به آستانه نزدیک‌تر میشود"
+            ],
+            "guid": "J*t7V+7fH/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو حالت اصلی مهاری چیست؟",
+                "۱. Presynaptic وقتی که قبل از اعمال تحریک نورون تحریکی، نورون پس سیناپسیِ نورون تحریکی مهار شود<br>۲. Postsynaptic وقتی نورون تحریکی نورون مهاری را برای مهار نورون پس سیناپسی تحریک کند<br><img src=\"paste-70442bae560c2e93fb49d39bdc721cc4ca9f58d0.jpg\">"
+            ],
+            "guid": "pk`DGT=Vj$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is summation? جمع شدگی",
+                "روند انتقال پیام از ناحیه پیش سیناپسی به پس سیناپسی"
+            ],
+            "guid": "G$rm@R2l%B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "الگوهای اصلی جمع شدگی:",
+                "۱. زمانی temporal<br>۲. فضایی spatial"
+            ],
+            "guid": "gOf(xLB$aD",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "فرکانس های تحریکی در جمع شدگی زمانی/مکانی زیاد است.",
+                "زمانی<br>(در جمع شدگی فضایی فرکانس پایینه)"
+            ],
+            "guid": "G]<:RRDhc;",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت های جمع شدگی فضایی و زمانی",
+                "زمانی: فرکانس بالا/ نورون پیش سیناپسی کم / مدت زمان مشخص / یک ناحیه تحریکی<br>فضایی: فرکانس پایین / نورون پیش سیناپسی زیاد(همگرا) / مدت زمان نامحدود / چندین ناحیه تحریکی<br><img src=\"paste-90adb37add5e3f1ad737a248248d3b91847df87f.jpg\">"
+            ],
+            "guid": "MF>K2~Bx>[",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "دو تفاوت عمده بین نورون ها",
+                "۱. تفاوت در آستانه اغاز پتانسیل عمل<br>۲. غایت میزان تخلیه‌ای "
+            ],
+            "guid": "ExfID^.kef",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What is fatigue of synaptic transmission ",
+                "خستگی سیناپسی<br>تعداد تحریکات و محرک ثابت منجر به کاهش پاسخ در ناحیه پس سیناپسی میشود"
+            ],
+            "guid": "C:.-.yDG._",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "۳ مکانیسم اصلی خستگی سیناپسی",
+                "۱. مقدار مشخص وزیکول در نورون <u>پیش سیناپسی</u> <br>۲. وارد شدن گیرنده های <u>پس سیناپسی</u> به مرحله غیرفعال شدن <br>۳. تغییر میزان غلظت یون ها (هم پیش سیناپسی و هم پس سیناپسی)"
+            ],
+            "guid": "q{jN)yz%?x",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در خستگی سیناپسی تمام گیرنده‌های نورون پس سیناپسی وارد مرحله غیرفعال شدن می شود.",
+                "غلط<br>همیشه یه تعدادیشون ثابت میمونن و هی جایگزین میشن."
+            ],
+            "guid": "vWWcO)k.;<",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تاثیر اسیدوز و آلکالوز بر انتقال سیناپسی",
+                "اسیدوز باعث کاهش انتقال و الکالوز باعث افزایش انتقال سیناپسی میشه"
+            ],
+            "guid": "K-xp|zg]p|",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "برای افراد مبتلا به صرع خطر ابتلا به اسیدوز کشنده‌تر است یا الکالوز؟",
+                "آلکالوز (چون تحریک پذیری بالاست و آلکالوز انتقال سیناپسی رو افزایش میده)"
+            ],
+            "guid": "GdJ.^lI+gu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اثر هیپوکسی بر انتقال سیناپسی ",
+                "کاهش (چون انتقال سیناپسی به atp نیاز داره)"
+            ],
+            "guid": "zv<v|GVC.E",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "What's synaptic delay and how long does it take?",
+                "تاخیر سیناپسی: حداقل مدت زمان لازم برای انتقال پیام از نورونی به نورون دیگر<br>۰.۵ میلی ثانیه"
+            ],
+            "guid": "b_cL(=%BJ*",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کاربرد تاخیر سیناپسی",
+                "فهمیدن تعداد سیناپس‌های درگیر در یک مدار (زمانی که کل مدار طول میکشه تا پاسخ بده / ۰.۵ = تعداد سیناپس)"
+            ],
+            "guid": "jkttd`DJ/q",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تاثیر قهوه، چایی و کاکائو بر انتقال سیناپسی",
+                "کافیین، تئوفیلین، تئوبرومین<br>پایین اوردن آستانه تحریک پذیری (نزدیک کردنش به پتانسیل استراحت، افزایش عددش ولی با -)<br>تحریک پذیری بیشتر<br>هوشیاری "
+            ],
+            "guid": "AsOnb~%`%~",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد سم strychnine",
+                "جلوگیری از عملکرد گلایسین در نخاع =» مهار کمتر در نخاع =» افزایش تحریک پذیری =» انقباضات شدید عضلات (تنفسی) =» مرگ"
+            ],
+            "guid": "to)v^V]$u.",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "عملکرد داروهای بی حسی anesthetic و بیهوشی",
+                "محلول در چربی =» عبور از غشا =» دفورمه کردن کانال‌های کاتیونی (از کار افتادنشون)<br>محلو در چربی =» عبور از غشا به درون سلول =» اتصال به کانال‌ها از داخل سلول =» از بین بردن عملکرد کانال ها<br><br>==» افزایش آستانه تحریک پذیری (افزایش فاصله آستانه با پتانسیل استراحت، کوچک شدن عدد با -)"
+            ],
+            "guid": "CRK(hdWn!]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تسهیل کننده پیام / ایجاد کننده پیام",
+                "در ناحیه facilitated / در ناحیه discharge "
+            ],
+            "guid": "Bn_b5U[7c$",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Discharge zone / facilitated zone",
+                "ناحیه تخلیه شدن: جایی که نورون پیش سیناپسی سیناپس‌های زیادی تشکیل داده و نورون پس سیناپسی را کاملا تحت تاثیر قرار میدهد<br>ناحیه تسهیل شده: جایی که نورون پیش سیناپسی سیناپس‌های کمتری تشکیل داده و نورون پس سیناپسی را تسهیل می کند<br><img src=\"paste-df610ee8be16aa3328a8b143aa3ea6aefa8be680.jpg\">"
+            ],
+            "guid": "pyA37otUwu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Receptive field ",
+                "میدان دریافت<br>Discharge zone + facilitated zone <br>در neural pool<br><img src=\"paste-df610ee8be16aa3328a8b143aa3ea6aefa8be680.jpg\">"
+            ],
+            "guid": "sAH|XqU63F",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تسهیل کردن انتقال سیناپسی میتواند موجب افزایش طول اثر تحریک شود.",
+                "صحیح <br><img src=\"paste-8c5d03f41623a76ef24ffc03dde37fc3446fdd8b.jpg\">"
+            ],
+            "guid": "cZ%z]r=+<M",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "۴ مدل مدار عصبی را نام برده و توضیح دهید",
+                "Diverging دایورجنس یا واگرا:<br>یک نورون یا ناحیه به چندین نورون گسترش پیدا میکنه<br>Converging کانورجنس یا همگرا:<br>برعکس قبلی <br>Reverberating اوسیلیتوری یا نوسانی: <br>از نورون اخر به نورون اول تحریک داریم، یعنی مرتب پیام تکرار میشه مثل تنفس<br>Parallel after discharge تخلیه متعاقب موازی:<br>سرعت انتقال به مرور کاهش پیدا میکنه، اول یه سیناپسه بعد دو تا بعد سه تا و همینجوری زیاد میشه(انگار هی با اختلاف زمانی نورون اخر تحریک میشه)<br><img src=\"paste-295a955afbc1cc1bde074c93b463d03beb4c8fec.jpg\">"
+            ],
+            "guid": "F^5LA-><Cu",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "اکثر پیام های حرکتی از کدام نوع مدار هستند؟",
+                "Converging همگرا"
+            ],
+            "guid": "cpk`r=b?1/",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مولکول‌های کوچک نوروترنسمیترها در کجای نورون ساخته می شوند؟",
+                "معمولا پایانه اکسونی"
+            ],
+            "guid": "oqV,nVJ=,B",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "استیل کولین turn over بالایی داره، یعنی چی؟",
+                "یعنی استیل کولین استرازها از استیل‌کولین بیشترن و دائما مولکول رو از بین میبرن"
+            ],
+            "guid": "iH{&_Zzbs0",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ملاتونین جزو کدام دسته از نوروترنسمیترهاست؟",
+                "مولکول های کوچک کلاس آمین ها"
+            ],
+            "guid": "hHaqx$uF)G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "از هر نورون تنها یک نوروترنسمیتر ترشح می شود.",
+                "غلطه<br>قبلا اینطور فکر میکردن"
+            ],
+            "guid": "y_V`16&:t(",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تفاوت های<br>Co-release<br>Co-transmission 1. Differential Ca sensitivity 2. Spatial segregation ",
+                "اولی چند نوع نوروترنسمیتر در یک وزیکول ساخته و ازاد میشن.<br>انتقال با هم یا دو نوع وزیکول با حساسیت متفاوت به غلظت کلسیم ازاد میشن، یا چن تا پایانه اکسونی با وزیکول های متفاوت که با یه پتانسیل عمل وزیکولو ازاد میکنن."
+            ],
+            "guid": "Ca:6E+aT{h",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "ایا ممکن است نوروترنسمیترهای مولکول کوچک و نوروپپتیدها در یک وزیکول قرار بگیرند و با هم ازاد بشن؟",
+                "بله"
+            ],
+            "guid": "JQ%PoH]=#G",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "چگونه تشخیص بدیم که مدار نورونی در انتها چه نتیجه‌ای داره؟",
+                "نورون های مهاری رو منفی و نورون های تحریکی را مثبت در نظر میگیریم، به صورت ضرب جبری پیش میره<img src=\"temp_file_-0256cf5f657b68a05d701dc6b45ef6bc4e8d8042.jpg\">"
+            ],
+            "guid": "r?Kvbk.Jf1",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                " نوروترنسمیترهای مهاری و تحریکی میتواند توسط یک نورون ساخته شود.",
+                "نه اصولا"
+            ],
+            "guid": "w93}cN2fIN",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "Explain: Polarization, hyperpolarization, depolarization, repolarization ",
+                "Polarization: حالت استراحت نورون<br>Hyperpolarization: وقتی IPSP عمل میکنه<br>Depolarization: وقتی به پتانسیل عمل نزدیک میشیم(EPSP) و قسمت بالا روی پتانسیل عمل <br>Repolarization: قسمت پایین‌روی پتانسیل عمل تا به استراحت برسه"
+            ],
+            "guid": "DZnu<(~N&v",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "در کدام مدارهای عصبی خروجی دائمی داریم؟",
+                "مدار نوسانی"
+            ],
+            "guid": "p?CRitj<Nr",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "مثالی از مدار نوسانی بزنید.",
+                "مدار تنفس: تحریکات اعصاب کاروتید موجب تحریک دائم عصب فرنیک می شود و میتواند خروجی دچار کاهش و افزایش شود ولی خروجی دائمی است"
+            ],
+            "guid": "PV{E)Dxz~9",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "کدام نوع از مدارهای عصبی دچار خستگی سیناپسی نمی شوند؟",
+                "مدارهای نوسانی"
+            ],
+            "guid": "h*;lJ~%xu6",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "پتانسیل عمل مرکب چیست؟",
+                "compound action potential<br>در مسیر عصب چندین نورون با محتواها و انواع متفاوت پتانسیل عمل میسازند"
+            ],
+            "guid": "tx<V#w2Wc+",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "what is a mix nerve",
+                "عصب مخلوط<br>وقتی انواع مختلفی از نورون داریم مثل نورون های Aalpha + Abeta<br><img src=\"paste-0cd4ed85012552314ba08dd5c5448d2afbff918e.jpg\">"
+            ],
+            "guid": "h6-(@[sS8]",
+            "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
+            "tags": []
+        },
+        {
+            "__type__": "Note",
+            "fields": [
+                "تمام اعصاب ما مخلوط هستند",
+                "درسته"
+            ],
+            "guid": "LWN1V=iKIt",
             "note_model_uuid": "4e3832ee-ef6c-11ef-994e-d4548b111f10",
             "tags": []
         }
